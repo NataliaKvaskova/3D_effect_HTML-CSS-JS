@@ -69,10 +69,7 @@ body{
 .layer-5{
   transform: translateZ(300px)scale(.9);
 }
-.layer-6{
-  transform: translateZ(400px);
-  
-}
+
 .hero-content{
   font-size: calc(var(--index)*2.5);
   text-align: center;
